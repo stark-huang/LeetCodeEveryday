@@ -47,9 +47,11 @@
     <Compile Include="1266访问所有点的最小时间.cs" />
     <Compile Include="1290二进制链表转整数.cs" />
     <Compile Include="1295统计位数为偶数的数字.cs" />
+    <Compile Include="1528重新排列字符串.cs" />
     <Compile Include="1572矩阵对角线元素的和.cs" />
     <Compile Include="7整数反转.cs" />
     <Compile Include="845数组中的最长山脉.cs" />
+    <Compile Include="LCP17速算机器人.cs" />
     <Compile Include="ListNode.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
