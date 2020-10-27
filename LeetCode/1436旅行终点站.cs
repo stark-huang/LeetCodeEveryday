@@ -16,7 +16,6 @@ namespace LeetCode
             string city = paths[0][0];
             while (dic.ContainsKey(city))
                 city = dic[city];
-
             return city;
         }
     }

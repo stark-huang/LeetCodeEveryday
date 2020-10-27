@@ -10,7 +10,7 @@ namespace LeetCode
     /// 二叉链表结点类
     /// </summary>
     /// <typeparam name="T"></typeparam>
-    public  class TreeNode<T>
+    public class TreeNode<T>
     {
         private T data;               //数据域
         private TreeNode<T> lChild;   //左孩子   树中一个结点的子树的根结点称为这个结点的孩子
@@ -61,4 +61,5 @@ namespace LeetCode
             get { return rChild; }
             set { rChild = value; }
         }
+    }
 }
