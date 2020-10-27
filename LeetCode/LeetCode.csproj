@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="1021删除最外层的括号.cs" />
     <Compile Include="1024视频拼接.cs" />
+    <Compile Include="1207独一无二的出现次数.cs" />
     <Compile Include="1221分割平衡字符串.cs" />
     <Compile Include="1266访问所有点的最小时间.cs" />
     <Compile Include="1290二进制链表转整数.cs" />
@@ -55,6 +57,7 @@
     <Compile Include="1534统计好三元组.cs" />
     <Compile Include="1572矩阵对角线元素的和.cs" />
     <Compile Include="461汉明距离.cs" />
+    <Compile Include="657机器人能否返回原点.cs" />
     <Compile Include="7整数反转.cs" />
     <Compile Include="845数组中的最长山脉.cs" />
     <Compile Include="LCP17速算机器人.cs" />
