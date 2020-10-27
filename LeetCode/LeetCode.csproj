@@ -52,7 +52,9 @@
     <Compile Include="144二叉树的前序遍历.cs" />
     <Compile Include="1450在既定时间做作业的学生人数.cs" />
     <Compile Include="1528重新排列字符串.cs" />
+    <Compile Include="1534统计好三元组.cs" />
     <Compile Include="1572矩阵对角线元素的和.cs" />
+    <Compile Include="461汉明距离.cs" />
     <Compile Include="7整数反转.cs" />
     <Compile Include="845数组中的最长山脉.cs" />
     <Compile Include="LCP17速算机器人.cs" />
