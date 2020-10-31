@@ -15,3 +15,6 @@ F:\LeetCode刷题\LeetCodeEveryday\LeetCode\obj\Debug\LeetCode.pdb
 F:\leetcode\LeetCodeEveryday\LeetCode\bin\Debug\LeetCode.exe.config
 F:\leetcode\LeetCodeEveryday\LeetCode\obj\Debug\LeetCode.exe
 F:\leetcode\LeetCodeEveryday\LeetCode\obj\Debug\LeetCode.pdb
+F:\leetcode\LeetCodeEveryday\LeetCode\bin\Debug\LeetCode.exe
+F:\leetcode\LeetCodeEveryday\LeetCode\bin\Debug\LeetCode.pdb
+F:\leetcode\LeetCodeEveryday\LeetCode\obj\Debug\LeetCode.csprojResolveAssemblyReference.cache

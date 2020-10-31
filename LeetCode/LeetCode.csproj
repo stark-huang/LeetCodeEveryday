@@ -50,16 +50,24 @@
     <Compile Include="1266访问所有点的最小时间.cs" />
     <Compile Include="1290二进制链表转整数.cs" />
     <Compile Include="1295统计位数为偶数的数字.cs" />
+<<<<<<< HEAD
     <Compile Include="1299将每个元素替换为右侧最大元素.cs" />
+=======
+    <Compile Include="129求根到叶子节点数字之和.cs" />
+    <Compile Include="1351统计有序矩阵中的负数.cs" />
+>>>>>>> a37b8b63a2b18f5cadccd42c4810435a7aab6880
     <Compile Include="1436旅行终点站.cs" />
     <Compile Include="144二叉树的前序遍历.cs" />
     <Compile Include="1450在既定时间做作业的学生人数.cs" />
+    <Compile Include="1464数组中两元素的最大乘积.cs" />
     <Compile Include="1528重新排列字符串.cs" />
     <Compile Include="1534统计好三元组.cs" />
     <Compile Include="1572矩阵对角线元素的和.cs" />
     <Compile Include="461汉明距离.cs" />
+    <Compile Include="463岛屿的周长.cs" />
     <Compile Include="657机器人能否返回原点.cs" />
     <Compile Include="7整数反转.cs" />
+    <Compile Include="804唯一摩尔斯密码词.cs" />
     <Compile Include="845数组中的最长山脉.cs" />
     <Compile Include="LCP17速算机器人.cs" />
     <Compile Include="ListNode.cs" />
