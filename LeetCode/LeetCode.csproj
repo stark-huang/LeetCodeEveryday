@@ -60,6 +60,7 @@
     <Compile Include="1528重新排列字符串.cs" />
     <Compile Include="1534统计好三元组.cs" />
     <Compile Include="1572矩阵对角线元素的和.cs" />
+    <Compile Include="381O%281%29时间插入删除和获取随机元素允许重复.cs" />
     <Compile Include="461汉明距离.cs" />
     <Compile Include="463岛屿的周长.cs" />
     <Compile Include="657机器人能否返回原点.cs" />
