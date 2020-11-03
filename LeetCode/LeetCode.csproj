@@ -53,6 +53,7 @@
     <Compile Include="1295统计位数为偶数的数字.cs" />
     <Compile Include="1299将每个元素替换为右侧最大元素.cs" />
     <Compile Include="129求根到叶子节点数字之和.cs" />
+    <Compile Include="1323%286和9组成的最大数字%29.cs" />
     <Compile Include="1351统计有序矩阵中的负数.cs" />
     <Compile Include="140单词拆分II.cs" />
     <Compile Include="1436旅行终点站.cs" />
