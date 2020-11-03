@@ -71,6 +71,7 @@
     <Compile Include="804唯一摩尔斯密码词.cs" />
     <Compile Include="832翻转图像.cs" />
     <Compile Include="845数组中的最长山脉.cs" />
+    <Compile Include="941有效的山脉数组.cs" />
     <Compile Include="LCP17速算机器人.cs" />
     <Compile Include="ListNode.cs" />
     <Compile Include="Program.cs" />
