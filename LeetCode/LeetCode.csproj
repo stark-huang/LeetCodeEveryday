@@ -47,6 +47,7 @@
     <Compile Include="1024视频拼接.cs" />
     <Compile Include="1207独一无二的出现次数.cs" />
     <Compile Include="1221分割平衡字符串.cs" />
+    <Compile Include="122买卖股票的最佳时机II.cs" />
     <Compile Include="1252奇数值单元格的数目.cs" />
     <Compile Include="1266访问所有点的最小时间.cs" />
     <Compile Include="127单词接龙.cs" />
@@ -64,6 +65,7 @@
     <Compile Include="1528重新排列字符串.cs" />
     <Compile Include="1534统计好三元组.cs" />
     <Compile Include="1572矩阵对角线元素的和.cs" />
+    <Compile Include="327区间和的个数.cs" />
     <Compile Include="349两个数组的交集.cs" />
     <Compile Include="381O%281%29时间插入删除和获取随机元素允许重复.cs" />
     <Compile Include="461汉明距离.cs" />
