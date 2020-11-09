@@ -67,6 +67,7 @@
     <Compile Include="381O%281%29时间插入删除和获取随机元素允许重复.cs" />
     <Compile Include="461汉明距离.cs" />
     <Compile Include="463岛屿的周长.cs" />
+    <Compile Include="57插入区间.cs" />
     <Compile Include="657机器人能否返回原点.cs" />
     <Compile Include="7整数反转.cs" />
     <Compile Include="804唯一摩尔斯密码词.cs" />
