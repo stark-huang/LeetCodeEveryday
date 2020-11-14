@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="1021删除最外层的括号.cs" />
     <Compile Include="1024视频拼接.cs" />
+    <Compile Include="1122数组的相对排序.cs" />
     <Compile Include="1207独一无二的出现次数.cs" />
     <Compile Include="1221分割平衡字符串.cs" />
     <Compile Include="122买卖股票的最佳时机II.cs" />
