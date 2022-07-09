@@ -1,7 +1,7 @@
 package utils
 
-//MinCostToMoveChips
-//  ##################################### //
+// MinCostToMoveChips
+// ##################################### //
 //            1217. 玩筹码                //
 // ##################################### //
 func MinCostToMoveChips(position []int) (count int) {

@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	position := []int{1, 2, 2, 2, 2}
-	fmt.Println(utils.MinCostToMoveChips(position))
+	position := []int{1, 2, 3, 4, 5, 6, 7, 8}
+	fmt.Println(utils.LenLongestFibSubseq(position))
 }
