@@ -66,6 +66,7 @@
     <Compile Include="1528重新排列字符串.cs" />
     <Compile Include="1534统计好三元组.cs" />
     <Compile Include="1572矩阵对角线元素的和.cs" />
+    <Compile Include="283移动零.cs" />
     <Compile Include="327区间和的个数.cs" />
     <Compile Include="349两个数组的交集.cs" />
     <Compile Include="381O%281%29时间插入删除和获取随机元素允许重复.cs" />
@@ -77,6 +78,7 @@
     <Compile Include="804唯一摩尔斯密码词.cs" />
     <Compile Include="832翻转图像.cs" />
     <Compile Include="845数组中的最长山脉.cs" />
+    <Compile Include="922按奇偶排序数组II.cs" />
     <Compile Include="941有效的山脉数组.cs" />
     <Compile Include="973最接近原点的K个点.cs" />
     <Compile Include="LCP17速算机器人.cs" />
