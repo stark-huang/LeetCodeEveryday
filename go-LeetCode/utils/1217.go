@@ -9,6 +9,7 @@ func MinCostToMoveChips(position []int) (count int) {
 	for _, p := range position {
 		dataMap[p%2]++
 	}
+
 	if dataMap[0] > dataMap[1] {
 		count = dataMap[1]
 	} else {
