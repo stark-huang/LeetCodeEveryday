@@ -52,4 +52,5 @@ func (this *MagicDictionary) Search(searchWord string) bool {
 	}
 
 	return false
+
 }
